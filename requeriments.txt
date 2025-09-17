@@ -1,0 +1,4 @@
+kivy==2.3.0
+kivymd==1.1.1
+mysql-connector-python
+python-dotenv
